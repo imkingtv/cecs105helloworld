@@ -1,5 +1,3 @@
-# cecs105helloworld
-For CECS105
 <!DOCTYPE html>
 <html lang="en">
 <head>
